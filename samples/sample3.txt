@@ -1,0 +1,8 @@
+mon - ramesh done login bug fix ticket 492 i think... wait testing not done yet coz server was down lol
+mon: anita said she talk to client bout the report layout.. they want blue buttons not green??
+tues.. prodution api went crazy for 10 mins err 504 timedout. rahul patched it quick tho.
+wed: gatewy issue still there.. wating on third party guys to reply my mail sent 2 days back zzz
+thurs - tested 12 ticekts, 3 failed badly (tkt 110, 114, 119) need dev to rechek asap!!
+thurs: half of team went for company townhall so afternoon was kinda slow
+fri: next wk we gona push build 3.0 to staging i gues on tuesday if po gives ok. rohit sick today
+fri.. remeber to ask client team for the api auth token before 14 dec otherwise deploy will get delaied
